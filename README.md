@@ -5,4 +5,7 @@ Feito por Cauã e Vitoria.
   Segue o exemplo da imagem: 
 <img>![image](https://github.com/vitoriammsantos/Trabalho-LIP-Arduino/assets/161458503/484d716c-7678-416a-bcb7-56cb89a18d52)
 
+  Link do video:
+  https://youtu.be/BcapmP5NkPY?si=9O72ZQPLETCAsl33
+
 
